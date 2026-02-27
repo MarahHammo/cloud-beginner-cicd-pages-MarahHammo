@@ -25,4 +25,4 @@ Finally, the site is deployed automatically to GitHub Pages.
 
 
 ## Live Website
-I will add it after deployment.
+https://marahhammo.github.io/cloud-beginner-cicd-pages-MarahHammo/
